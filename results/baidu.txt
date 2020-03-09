@@ -1,0 +1,86 @@
+样时间
+检验项目;肝功肾功四项心肌酶血脂糖,
+【生化】门诊
+7600生化仪
+济宁医学院附属医院检验报告单
+质评合格,省内参考
+姓名Name
+ Lab Report Form of Affiliated Hospital of Jining Medical College
+龄Age69
+岁
+性别Sex男
+科室Dept心内三病房
+门诊号 Out-Patient No.1002878174检验物 Specimen血清
+住院号In -Patient- No.
+代号No项目Item
+样本编号 Sample No.2704
+结果 ResultRef参考范围 value
+代号No项目Item
+ALT丙氨酸氨基转移酶14.39--50U/L
+结果 Result参考范围 Ref value
+TP总蛋白
+72.3
+CREA肌酐
+65--85g/L
+65.625-123umol/L
+ALB白蛋白
+BUN尿素
+4.8
+39.4↓40--55g/L
+2.29--7.2mmol/L
+GLO球蛋白
+UA尿酸
+32.9
+20--40g/L
+344.3135--490umol/l
+GLU葡萄糖
+A/G白球比
+1.21.2--2.4
+5.03.9--6.1mmol/L
+ TG
+甘油三酯
+TBIL总胆红素
+12.75.09--17.1umol/ CHOL总胆固醇
+1.610.56--1.7mmol/L
+DBIL直接胆红素
+ 3.40-6 umol/1.
+5.372.8-5.85mmol/L
+ IDBil间接胆红素
+L高密度脂蛋白胆固醇1.320.8--2m
+ mol/L
+9.3
+ 0-11 umol/L
+LDL低密度脂蛋白胆固醇3.1
+GGT-谷氨酰基转移酶23.910--60U/L
+ 2-3. 36 mmol/.
+vldl极低密度脂蛋白胆固醇0.95↑0.1-0.82mmol/L
+ALP碱性磷酸酶
+88
+40270U/L
+LPa脂蛋白(a)
+78
+CK肌酸激酶
+0--300mg/L
+54.2
+5-200U/L
+ PA
+前白蛋白
+20.010-40mg/d1
+CK-MB肌酸激酶同工酶16
+025U/L
+B2MGB2微球蛋白
+1.570--3mg/L
+AST天门冬氨酸氨基转移2215--50U/L
+AST/ALT天门冬/丙氨酸氨基转移11.54↑0.8--1.5
+LDH乳酸脱氢酶
+200
+90--240U/L
+o超氧化物歧化酶154.410-215/ml
+HBDH羟丁酸脱氢酶
+166
+80--220U/L
+备注Note:标本合格
+标本接收时间:2013/06/11123:02报告时间:2013/06/113:27:43送检医生刘立新操作者赵元明审核者树恒
+注:此检验报告仅对送检标本负责。如有疑问,请在一日内反馈检验科,以备结果复核This report is only on
+ the specimens, if you have any questions please contact with the Lab Dept. for verifying within one
+day.咨询电话:TEL0537-2903613/2903399
