@@ -18,7 +18,7 @@ const url = 'https://ocrapi-advanced.taobao.com/ocrservice/advanced'
 
     await writeJSON('results/aliyun_full.json', res)
     let text = res.prism_wordsInfo.map(x => x.word).join('\n')
-    await writeJSON('results/aliyun.txt', text)
+    await writeFile('results/aliyun.txt', text)
     console.log(text)
   } catch (e) {
     console.log(e)
