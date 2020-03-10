@@ -7,5 +7,8 @@ module.exports = {
   tencent: {
     secretId: '',
     secretKey: ''
+  },
+  aliyun: {
+    AppCode: ''
   }
 }

@@ -12,6 +12,7 @@
   "dependencies": {
     "baidu-aip-sdk": "^2.4.5",
     "fs-extra": "^8.1.0",
+    "got": "^10.6.0",
     "tencentcloud-sdk-nodejs": "^3.0.126"
   }
 }
